@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kiosco Web</string>
+    <string name="settings_title">Ajustes del kiosco</string>
+    <string name="setup_title">Configurar kiosco</string>
+    <string name="url_label">URL de inicio</string>
+    <string name="url_hint">https://mi-sitio.com</string>
+    <string name="pin_label">PIN de administración</string>
+    <string name="pin_hint">1234</string>
+    <string name="pin_dialog_title">Ingresá el PIN</string>
+    <string name="pin_error">PIN incorrecto</string>
+    <string name="keep_screen_on">Mantener la pantalla siempre encendida</string>
+    <string name="advanced_wakelock">Forzar con WakeLock (avanzado)</string>
+    <string name="autostart">Abrir automáticamente al encender el equipo</string>
+    <string name="lock_task">Modo kiosco estricto (bloquear teclas del sistema)</string>
+    <string name="orientation_label">Orientación de pantalla</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="exit_app">Salir de la app</string>
+    <string name="offline_message">Sin conexión. Reintentando…</string>
+    <string name="retry">Reintentar</string>
+    <string name="accept">Aceptar</string>
+    <string name="url_required">Ingresá una URL</string>
+    <string name="kiosk_lock_failed">No se pudo activar el bloqueo de kiosco</string>
+    <string name="download_started">Descargando archivo…</string>
+    <string name="download_failed">No se pudo iniciar la descarga</string>
+    <string name="orientation_sensor">Sensor (automático)</string>
+    <string name="orientation_portrait">Vertical</string>
+    <string name="orientation_landscape">Horizontal</string>
+</resources>
