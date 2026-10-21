@@ -8,8 +8,8 @@ Una URL. Sin barras del sistema. Sin que se apague la pantalla. Sin distraccione
 [![Android](https://img.shields.io/badge/Android-7.0%2B-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![API](https://img.shields.io/badge/targetSdk-34-1E88E5?logo=android&logoColor=white)](https://developer.android.com)
-[![Versión](https://img.shields.io/github/v/tag/pabloberthold/kiosko?label=versi%C3%B3n&color=4FC3F7)](https://github.com/pabloberthold/kiosko/releases)
-[![Estado](https://img.shields.io/badge/estado-v1.0%20probada-2EA043)](#estado)
+[![Versión](https://img.shields.io/github/v/tag/pabloberthold/kiosko?label=versi%C3%B3n&color=4FC3F7)](https://github.com/pabloberthold/kiosko/tags)
+![Estado](https://img.shields.io/badge/estado-v1.0%20probada-2EA043)
 
 [Qué hace](#-qué-hace) · [Instalación](#-instalación) · [Configuración](#-configuración) · [Modo kiosco](#-modo-kiosco) · [Preguntas frecuentes](#-preguntas-frecuentes) · [Análisis de Fully](docs/analisis-fully.md)
 
